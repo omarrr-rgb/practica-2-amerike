@@ -4,3 +4,4 @@
 - [practica 5](./practica-5.md)
 - [practica 6](https://github.com/omarrr-rgb/Practica-6)
 - [practica 7](https://github.com/omarrr-rgb/Practica-6)
+- [practica 8](./practica-8.md)
